@@ -1,5 +1,3 @@
-
-```python
 import requests
 
 def emotion_detector(text_to_analyse):
@@ -22,4 +20,3 @@ def emotion_detector(text_to_analyse):
     )
 
     return response.text
-```
